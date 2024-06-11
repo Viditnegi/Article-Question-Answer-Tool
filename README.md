@@ -8,7 +8,11 @@ Issues Resolved with this project:
 - Aggregated and fucused knowledge base can't be provided manually websites like chatGPT.
 - Word limits in tools like chatGPT is very limited.
 
-
+## Pre-requisites
+- Make .env file
+- Write the following in it.
+    - OPENAI_API_KEY='enter your openapi key here'
+    
 ## Text loading and splitting
 
 Documents --> splits --> merged splits (overlapped chunks)

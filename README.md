@@ -9,6 +9,7 @@ Issues Resolved with this project:
 - Word limits in tools like chatGPT is very limited.
 
 ## Pre-requisites
+- Use python=3.11 environment
 - Make .env file
 - Write the following in it.
     - OPENAI_API_KEY='enter your openapi key here'

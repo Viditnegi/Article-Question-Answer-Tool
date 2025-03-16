@@ -13,6 +13,7 @@ Issues Resolved with this project:
 - Make .env file
 - Write the following in it.
     - OPENAI_API_KEY='enter your openapi key here'
+- Run the app.py file.
     
 ## Text loading and splitting
 
